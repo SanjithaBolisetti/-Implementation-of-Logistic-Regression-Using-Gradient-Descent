@@ -2,18 +2,15 @@
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 1. Import the necessary python packages
 2. Read the dataset
 3. Define X and Y array.
 4. Define a function for costFunction,cost and gradient.
 5. Define a function to plot the decision boundary and predict the Regression value
-
 ## Program:
 ```
 /*
@@ -70,15 +67,11 @@ xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
-
 ## Output:
 # ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![image](https://github.com/SanjithaBolisetti/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393633/dd9926fb-6803-44f0-9bed-f752061724f3)
-
 # PREDICTED RESULT:
 ![image](https://github.com/SanjithaBolisetti/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393633/def222f2-9183-4e4c-aa3a-1fe1e1fac416)
-
-
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
